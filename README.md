@@ -19,7 +19,7 @@ Azure Device Templete image: ![Node mcu to Azure 6](https://github.com/KrishnaPr
 
 Azure device View image ![Node mcu to Azure 7](https://github.com/KrishnaPrasadAnkam/Soil_moisture_Monitoring/assets/128711747/60ce7b5d-14fc-41d1-9df4-ee7dd8f08727)
 
-Azure device Connection groups images:![node mcu to azuree](https://github.com/KrishnaPrasadAnkam/Soil_moisture_Monitoring/assets/128711747/37ac6b16-f1d9-41cc-85ff-e2d54a3cfedd)
+AZURE RTOS (it provides device connection) Azure device Connection groups images:![node mcu to azuree](https://github.com/KrishnaPrasadAnkam/Soil_moisture_Monitoring/assets/128711747/37ac6b16-f1d9-41cc-85ff-e2d54a3cfedd)
 
 Azure devices Over view:![node mcu to azuree1](https://github.com/KrishnaPrasadAnkam/Soil_moisture_Monitoring/assets/128711747/e27cdf24-028a-45ca-8b4f-e660ec3ade88)
 
