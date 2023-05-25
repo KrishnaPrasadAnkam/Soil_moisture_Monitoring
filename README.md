@@ -23,6 +23,6 @@ AZURE RTOS (it provides device connection) Azure device Connection groups images
 
 Azure devices Over view:![node mcu to azuree1](https://github.com/KrishnaPrasadAnkam/Soil_moisture_Monitoring/assets/128711747/e27cdf24-028a-45ca-8b4f-e660ec3ade88)
 
-obtaing raw data from images :![Node mcu to Azure 10](https://github.com/KrishnaPrasadAnkam/Soil_moisture_Monitoring/assets/128711747/fd064ece-0a83-434d-8e2d-c5c1bab10897)
+Azure Storagae (Storing the data continuously) obtaing raw data from images :![Node mcu to Azure 10](https://github.com/KrishnaPrasadAnkam/Soil_moisture_Monitoring/assets/128711747/fd064ece-0a83-434d-8e2d-c5c1bab10897)
 
 providing device connection gropus details of deployed azure iot application in code :![node mcu to azure 8 1](https://github.com/KrishnaPrasadAnkam/Soil_moisture_Monitoring/assets/128711747/2f151acf-8386-4260-87c6-196a9c32d043)
